@@ -13,6 +13,6 @@ I'm currently working on some exciting robotics projects, and you can find my co
 
 ## Contact Me
 
-If you want to connect or have any inquiries, you can reach out to me via [email](mailto:asbjorn2625@gmail.com) or find me on [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/asbj%C3%B8rn-l-714bb5133/)https://www.linkedin.com/in/asbj%C3%B8rn-l-714bb5133/).
+If you want to connect or have any inquiries, you can reach out to me via [email](mailto:asbjorn2625@gmail.com) or find me on [LinkedIn]([https://www.linkedin.com/in/asbj%C3%B8rn-l-714bb5133/].
 
 Let's build the future of robotics together! 🤖🌟
